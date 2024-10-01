@@ -1,0 +1,10 @@
+C:\Users\faruk\source\repos\triggerTest\triggerTest\bin\Debug\triggerTest.exe.config
+C:\Users\faruk\source\repos\triggerTest\triggerTest\bin\Debug\triggerTest.exe
+C:\Users\faruk\source\repos\triggerTest\triggerTest\bin\Debug\triggerTest.pdb
+C:\Users\faruk\source\repos\triggerTest\triggerTest\obj\Debug\triggerTest.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\triggerTest\triggerTest\obj\Debug\triggerTest.Form1.resources
+C:\Users\faruk\source\repos\triggerTest\triggerTest\obj\Debug\triggerTest.Properties.Resources.resources
+C:\Users\faruk\source\repos\triggerTest\triggerTest\obj\Debug\triggerTest.csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\triggerTest\triggerTest\obj\Debug\triggerTest.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\triggerTest\triggerTest\obj\Debug\triggerTest.exe
+C:\Users\faruk\source\repos\triggerTest\triggerTest\obj\Debug\triggerTest.pdb
